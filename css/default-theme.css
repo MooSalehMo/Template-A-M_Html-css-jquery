@@ -1,0 +1,52 @@
+.slider .caption button ,
+.nav .navbar-light ul li > div,
+.slider .caption .fa-chevron-down ,
+.short-video .caption button,
+.how-much .boxes .box ul button,
+.footer button,
+.scrolltop, .clockk,
+.loading-overlay,
+.footer .copyright, .option-box .color-option, .option-box i{background-color: #535353
+}
+.featured .box i,
+.overview .cardes > div img,
+.how-much .boxes .box ul,
+.fAantastic .boxes > .box p{box-shadow: 1px 1px 12px #999,-1px -1px 12px #999
+}
+.nav .navbar-brand:hover,
+.nav .navbar-brand:focus,
+.nav .navbar-brand span,
+.featured .box i,
+.how-much .boxes .box ul li:first-of-type h3{color: #f00
+}
+.nav .navbar-brand,
+.nav .navbar-light .navbar-nav .nav-link,
+.nav .navbar-light ul li > div a:hover,
+.nav .navbar-light .last-button,
+.nav .navbar-light button span,
+.slider .caption h2,
+.slider .caption a,
+.short-video .caption button,
+.how-much .boxes .box ul button,
+.overlaya,
+.footer button,
+.clockk,
+.scrolltop,
+.loading-overlay,
+.slider .caption p,
+.slider .caption button ,
+.nav .navbar-light ul li > div a,.option-box .color-option, .option-box i {color: #fff
+}
+.overview .cardes > div h5,
+.footer h2,
+.how-much .boxes .box ul li:first-child h2,
+.fAantastic .caption h2,
+.short-video h2,
+.how-much .caption h2,
+.fAantastic .boxes > .box h5 ,
+.carousel h2, 
+.overview h2, 
+.featured h2, 
+.option-box 
+.color-option ul:last-of-type .active{color:#666;text-shadow: 2px 2px 2px #fff, 2px 2px 2px #3B5998
+}

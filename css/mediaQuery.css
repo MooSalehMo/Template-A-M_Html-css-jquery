@@ -1,0 +1,51 @@
+/* start global*/
+
+/*  start media query */
+    /* from 0 mobild and tablets*/
+@media (max-width:767px)
+{ 
+    .nav .navbar-light ul li{margin-bottom: 5px;}
+    .nav .navbar-light .last-button{display: none}
+    .nav .navbar-light ul li{text-align: center}
+    .slider .caption {margin-top: 30%}
+    .slider .caption p{text-align: center}
+    .slider .img-slider{display: none}
+    .slider .caption a{text-align: center;padding-right: 0}
+    .overview .cardes > div img{height: 400px}
+    .short-video .caption{text-align: center;margin-bottom: 30px}
+    .footer .sing-footer{left:5%}
+    .slider .img-slider{margin-top: 20%}
+    .slider .caption{margin-top: 20%}
+}
+
+    /* from phone to small screen*/
+@media (min-width:768px) and (max-width:991px)
+{
+    .nav .navbar-light .last-button{display: none}
+    .nav .navbar-light ul li{margin-bottom: 5px;}
+    .slider .caption{margin-top: 25%}
+    .slider .caption > p{
+        text-align:center;
+        width:70%;
+        margin:auto;
+        margin-bottom: 20px
+    }
+    .slider .caption a{text-align: center;padding-right: 0}
+    .overview .cardes > div img{height: 400px}
+    .short-video .caption{text-align: right}
+    .slider .img-slider{margin-top: 20%}
+    .slider .caption{margin-top: 20%}
+}
+        /* from small screen to medium */
+@media (min-width:992px) and (max-width:1199px)
+{
+        .short-video .caption{text-align: right}
+}   
+/* from medium to big */
+@media (min-width:1200px) 
+{
+    .short-video .caption{text-align: right}
+    .slider .img-slider{margin-top: 20%}
+    .slider .caption{margin-top: 20%}
+}
+/*  start media query */
